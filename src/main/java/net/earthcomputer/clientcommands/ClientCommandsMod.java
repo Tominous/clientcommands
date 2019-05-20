@@ -60,7 +60,7 @@ public class ClientCommandsMod {
 		ClientCommandHandler.instance.registerCommand(new CommandTempRule());
 		ClientCommandHandler.instance.registerCommand(new CommandCEnchant());
 		ClientCommandHandler.instance.registerCommand(new CommandCTime());
-		// ClientCommandHandler.instance.registerCommand(new CommandCVW());
+		 ClientCommandHandler.instance.registerCommand(new CommandCVW());
 		ClientCommandHandler.instance.registerCommand(new CommandCWeather());
 		ClientCommandHandler.instance.registerCommand(new CommandTick());
 		ClientCommandHandler.instance.registerCommand(new CommandCFill());
